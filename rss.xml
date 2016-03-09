@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wunengzi]]></title>
+        <description><![CDATA[Wunengzi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 10:37:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wunengzi Music For You]]></title>
+            <description><![CDATA[<article><h1>Wunengzi Music For You</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2086cffba95f1d9d892736c596f562c5fd182cbb.jpg"></article>]]></description>
+            <link>undefinedwunengzi-music-for-you/index.html</link>
+            <guid isPermaLink="false">5353a809-39d0-4ee6-b7dc-47fa86491bef</guid>
+            <pubDate>Wed, 09 Mar 2016 10:37:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
