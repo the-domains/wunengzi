@@ -1,28 +1,18 @@
-name: Wunengzi
-favicon: null
-layout_spectrum: 0.06211070530116558
-typography_spectrum: 0.019956446951255202
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.4401033262256533
-  lightness: 0.8431132130790502
-  saturation: 0.2558555358555168
-  rhythmicContrast: 0.2746226529125124
+    - '#C8C0C0'
+    - '#5A2F2B'
+    - '#809098'
+    - '#985048'
+    - '#000000'
+  brandStrength: 0.440103
+  lightness: 0.843113
+  rhythmicContrast: 0.274622
+  saturation: 0.255855
+cta: {}
+layout_spectrum: 0.722128
+name: Wunengzi
+opengraph: {}
 purpose: []
+typography_spectrum: 0.508445
